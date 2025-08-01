@@ -1,4 +1,4 @@
-# GRE Quiz Adaptive Spaced Repetition 系統
+# GRE Quiz SRS
 
 ## 專案簡介
 
@@ -95,14 +95,6 @@ openpyxl>=3.0.0
 ```
 
 > 本專案使用到 `pandas`, `numpy`, `colorama`, `openpyxl`（讀寫 Excel 檔案）。
-
-你可以用以下命令快速生成 `requirements.txt`：
-
-```bash
-pip freeze > requirements.txt
-```
-
-或是手動建立內容（推薦），以避免鎖定過多不必要版本。
 
 ---
 
