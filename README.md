@@ -1,7 +1,3 @@
-當然可以！以下是一份完整的工程說明 README 範本，適合放在 GitHub 上，並附上簡易的 `requirements.txt` 生成教學與內容。README 中也包含專案介紹、使用方式、功能說明與環境設定說明。
-
----
-
 # GRE Quiz Adaptive Spaced Repetition 系統
 
 ## 專案簡介
