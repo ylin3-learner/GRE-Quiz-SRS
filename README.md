@@ -19,7 +19,7 @@
 
 ## 系統架構
 
-![System Architecture](docs/system-architecture.png)
+![System Architecture](doc/system-architecture.png)
 
 > *SM‑2（卡片間隔計算）與 AIMD（每日負荷控制）的互動示意圖。學習者表現（錯題率 / 壓力）形成迴路回饋至兩個模組。圖示為概念設計，非實驗數據。*
 
@@ -27,7 +27,7 @@
 
 ## AIMD 負荷變化趨勢（概念示意）
 
-![Conceptual AIMD Trend](docs/aimd-trend.png)
+![Conceptual AIMD Trend](doc/aimd-trend.png)
 
 > *Additive Increase 緩步增加每日負荷，Multiplicative Decrease 在壓力或錯誤率過高時快速下降。  
 > 曲線為概念趨勢圖，非真實測量數據。*
