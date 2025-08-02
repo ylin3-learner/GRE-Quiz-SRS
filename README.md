@@ -107,8 +107,7 @@ openpyxl>=3.0.0
 ```
 
 ## 📦 下載
-[點我下載最新版本](https://github.com/ylin3-learner
-/GRE-Quiz-SRS/releases/latest/download/QuizApp.zip)
+[點我下載最新版本](https://github.com/ylin3-learner/GRE-Quiz-SRS/releases/latest/download/QuizApp.zip)
 
 ---
 
