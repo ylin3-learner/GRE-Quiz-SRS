@@ -1,4 +1,4 @@
-# GRE Quiz SRS  
+# GRE Voc SRS  
 
 For English, see [README_EN.md](README_EN.md)
 
