@@ -1,6 +1,6 @@
 # GRE Quiz SRS
 
-This README is the English version. For the Chinese version, please see 👉 [README.md](README.md)
+For 中文, see [README.md](README.md)
 
 ### Project Motivation
 Memorizing GRE vocabulary is painful, so I decided to create a handy tool to make it easier.  
