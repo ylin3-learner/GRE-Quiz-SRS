@@ -1,5 +1,7 @@
 # GRE Quiz SRS
 
+For English, see [README_EN.md](README_EN.md)
+
 ### 專案初衷
 背 GRE 太痛苦，就乾脆做了個偷懶工具。
 - SM2 負責記憶效率
