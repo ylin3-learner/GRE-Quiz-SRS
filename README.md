@@ -2,13 +2,16 @@
 
 ### 專案初衷
 背 GRE 太痛苦，就乾脆做了個偷懶工具。
-SM2 負責記憶效率，AIMD 防止單字海溺水。
+- SM2 負責記憶效率
+- AIMD 防止單字海溺水。
 
-背書沒多進步，拖延卻成專業滿分。
-送給當年痛苦背單字的自己──
+背書沒多進步，拖延卻成專業滿分。  
+
+送給當年痛苦背單字的自己──  
+
 還有所有在單字海裡掙扎的英文系夥伴。
-
-A farewell gift to my fellow English majors, from someone who escaped to CS but never forgot the pain.
+ 
+> A farewell gift to my fellow English majors, from someone who escaped to CS but never forgot the pain.
 
 ---
 
